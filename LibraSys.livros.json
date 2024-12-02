@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "674b94fd1bf2c5700f5e8ce4"
+  },
+  "id_livro": 1,
+  "titulo": "harry",
+  "data_publicacao": {
+    "$date": "2025-07-19T03:00:00.000Z"
+  },
+  "quantidade_disponivel": 13,
+  "quantidade_total": 15,
+  "valor": 15.95,
+  "nome_autor": "jk rolling",
+  "id_sessao": 0
+},
+{
+  "_id": {
+    "$oid": "674b951b1bf2c5700f5e8ce5"
+  },
+  "id_livro": 2,
+  "titulo": "senhor dos aneis",
+  "data_publicacao": {
+    "$date": "2024-07-19T03:00:00.000Z"
+  },
+  "quantidade_disponivel": 12,
+  "quantidade_total": 14,
+  "valor": 89.99,
+  "nome_autor": "tolkien",
+  "id_sessao": 3
+},
+{
+  "_id": {
+    "$oid": "674c9d65dadd935bc187948a"
+  },
+  "id_livro": 3,
+  "titulo": "Amigo imaginario",
+  "data_publicacao": {
+    "$date": "2014-02-15T02:00:00.000Z"
+  },
+  "quantidade_disponivel": 10,
+  "quantidade_total": 12,
+  "valor": 15.95,
+  "nome_autor": "Maria Josue",
+  "id_sessao": 0
+},
+{
+  "_id": {
+    "$oid": "674e401a4d140a693b483892"
+  },
+  "id_livro": 4,
+  "titulo": "Psicologia financeira",
+  "data_publicacao": {
+    "$date": "2018-02-15T02:00:00.000Z"
+  },
+  "quantidade_disponivel": 9,
+  "quantidade_total": 10,
+  "valor": 65.5,
+  "nome_autor": "Scott River",
+  "id_sessao": 3
+}]

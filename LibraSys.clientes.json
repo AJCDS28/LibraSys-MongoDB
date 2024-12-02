@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "674b94981bf2c5700f5e8ce0"
+  },
+  "id_cliente": 1,
+  "nome": "Joaozinho",
+  "email": "joaozinho@gmail.com",
+  "telefone": "40028922",
+  "cpf": "16561956152"
+},
+{
+  "_id": {
+    "$oid": "674b94b31bf2c5700f5e8ce2"
+  },
+  "id_cliente": 3,
+  "nome": "Maria",
+  "email": "mariaa@gmail.com",
+  "telefone": "871456265",
+  "cpf": "8945912865"
+},
+{
+  "_id": {
+    "$oid": "674b94e21bf2c5700f5e8ce3"
+  },
+  "id_cliente": 4,
+  "nome": "Ze",
+  "email": "ze@gmail.com",
+  "telefone": "5919646",
+  "cpf": "954946567654"
+}]

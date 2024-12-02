@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "674c944c1d853c5850e697be"
+  },
+  "id_emprestimo": 1,
+  "id_cliente": 3,
+  "data_emprestimo": {
+    "$date": "2024-12-01T03:00:00.000Z"
+  },
+  "data_devolucao": {
+    "$date": "2024-12-02T03:00:00.000Z"
+  },
+  "valor_emprestimo": 104.95,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "674c94e40436f26cc16f9021"
+  },
+  "id_emprestimo": 2,
+  "id_cliente": 1,
+  "data_emprestimo": {
+    "$date": "2024-12-01T03:00:00.000Z"
+  },
+  "data_devolucao": {
+    "$date": "2024-12-02T03:00:00.000Z"
+  },
+  "valor_emprestimo": 89.99,
+  "status": 1
+},
+{
+  "_id": {
+    "$oid": "674c9db3dadd935bc187948b"
+  },
+  "id_emprestimo": 3,
+  "id_cliente": 4,
+  "data_emprestimo": {
+    "$date": "2024-12-01T03:00:00.000Z"
+  },
+  "data_devolucao": {
+    "$date": "2024-12-05T03:00:00.000Z"
+  },
+  "valor_emprestimo": 31.9,
+  "status": 1
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "674c94be0436f26cc16f9020"
+  },
+  "id_pagamento": 1,
+  "valor_pago": 104.95,
+  "status": 2,
+  "id_emprestimo": 1
+},
+{
+  "_id": {
+    "$oid": "674c94e70436f26cc16f9023"
+  },
+  "id_pagamento": 2,
+  "valor_pago": 5.5,
+  "status": 1,
+  "id_emprestimo": 2
+},
+{
+  "_id": {
+    "$oid": "674c9db3dadd935bc187948e"
+  },
+  "id_pagamento": 3,
+  "valor_pago": 31.9,
+  "status": 2,
+  "id_emprestimo": 3
+}]

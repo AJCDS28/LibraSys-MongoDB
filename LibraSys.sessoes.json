@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "674b92337206ee4ae5bc8033"
+  },
+  "id_sessao": 1,
+  "codigo": 1,
+  "nome": "Terror"
+},
+{
+  "_id": {
+    "$oid": "674b926d7206ee4ae5bc8035"
+  },
+  "id_sessao": 3,
+  "codigo": 5,
+  "nome": "Ficção cientifica"
+},
+{
+  "_id": {
+    "$oid": "674c9d33dadd935bc1879489"
+  },
+  "id_sessao": 4,
+  "codigo": 4,
+  "nome": "Romance"
+}]

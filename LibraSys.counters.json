@@ -1,0 +1,20 @@
+[{
+  "_id": "clienteId",
+  "seq": 4
+},
+{
+  "_id": "livroId",
+  "seq": 4
+},
+{
+  "_id": "sessaoId",
+  "seq": 4
+},
+{
+  "_id": "pagamentoId",
+  "seq": 3
+},
+{
+  "_id": "emprestimoId",
+  "seq": 3
+}]

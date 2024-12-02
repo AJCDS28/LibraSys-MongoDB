@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "674c944c1d853c5850e697bf"
+  },
+  "id_emprestimo": 1,
+  "id_livro": 1
+},
+{
+  "_id": {
+    "$oid": "674c944c1d853c5850e697c0"
+  },
+  "id_emprestimo": 1,
+  "id_livro": 2
+},
+{
+  "_id": {
+    "$oid": "674c94e40436f26cc16f9022"
+  },
+  "id_emprestimo": 2,
+  "id_livro": 2
+},
+{
+  "_id": {
+    "$oid": "674c9db3dadd935bc187948c"
+  },
+  "id_emprestimo": 3,
+  "id_livro": 3
+},
+{
+  "_id": {
+    "$oid": "674c9db3dadd935bc187948d"
+  },
+  "id_emprestimo": 3,
+  "id_livro": 1
+}]
